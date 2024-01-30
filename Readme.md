@@ -55,6 +55,12 @@ const baseUrl = 'https://newsapi.org/v2';
 ````
 Replace 'YOUR_NEWS_API_KEY' with your actual News API key.
 
+![HomePage]( https://github.com/manojrajm/news/blob/master/assets/Screenshot_20240130_150159.jpg?raw=true )
+![ReadNews]( https://github.com/manojrajm/news/blob/master/assets/Screenshot_20240130_150208.jpg?raw=true )
+![Share]( https://github.com/manojrajm/news/blob/master/assets/Screenshot_20240130_150231.jpg?raw=true )
+
+
+
 
 
 
